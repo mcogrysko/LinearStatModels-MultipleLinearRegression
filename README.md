@@ -1,5 +1,9 @@
 # LinearStatModels-MultipleLinearRegression
 
+Mike Ogrysko
+
+ST765 Linear Statistical Models - Loyola Maryland MS Data Science program
+
 Predictors that Contribute to a Baseball Team’s Win Percentage
 
 Question: Which metrics contribute to the Baltimore Orioles win percentage?
